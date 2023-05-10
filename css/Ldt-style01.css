@@ -1,0 +1,13 @@
+body{
+    background-color: #593620;
+    color: #DDC461;
+
+    background-image: url("../img/picture/ldt_background1.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+footer{
+    background-color: #CB8552;
+    
+}
